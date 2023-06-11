@@ -7,7 +7,7 @@ const Footer = () => {
     <footer className={styles.footer}>
       <Container>
         <p>
-          Copyright © Kodilla 2023
+          Copyright © blazejew.ski 2022
         </p>
       </Container>
     </footer>
