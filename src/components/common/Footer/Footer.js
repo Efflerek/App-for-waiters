@@ -8,6 +8,7 @@ const Footer = () => {
       <Container>
         <p>
           Copyright © Kodilla 2023
+        </p>
       </Container>
     </footer>
   );
